@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the initial data is correct 1`] = `
+Array [
+  Object {
+    "balance": 1363,
+    "creditorName": "CBNA",
+    "firstName": "Suman",
+    "id": 1,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 2,
+  },
+  Object {
+    "balance": 2763,
+    "creditorName": "AMEX",
+    "firstName": "Suman",
+    "id": 2,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 2,
+  },
+  Object {
+    "balance": 429,
+    "creditorName": "AMEX",
+    "firstName": "Suman",
+    "id": 3,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 2,
+  },
+  Object {
+    "balance": 1363,
+    "creditorName": "AMEX",
+    "firstName": "Suman",
+    "id": 4,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 2,
+  },
+  Object {
+    "balance": 2644,
+    "creditorName": "DISCOVERBANK",
+    "firstName": "Suman",
+    "id": 5,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 2,
+  },
+  Object {
+    "balance": 5464,
+    "creditorName": "CAPITAL ONE",
+    "firstName": "Suman",
+    "id": 6,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 4,
+  },
+  Object {
+    "balance": 2345,
+    "creditorName": "CAPITAL ONE",
+    "firstName": "Suman",
+    "id": 7,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 4,
+  },
+  Object {
+    "balance": 836,
+    "creditorName": "CAPITAL ONE",
+    "firstName": "Suman",
+    "id": 8,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 4,
+  },
+  Object {
+    "balance": 687,
+    "creditorName": "CBNA",
+    "firstName": "Suman",
+    "id": 9,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 3.5,
+  },
+  Object {
+    "balance": 235,
+    "creditorName": "CBNA",
+    "firstName": "Suman",
+    "id": 10,
+    "lastName": "Tester79",
+    "minPaymentPercentage": 3.5,
+  },
+]
+`;
