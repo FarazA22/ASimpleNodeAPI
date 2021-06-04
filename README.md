@@ -1,6 +1,6 @@
 # ASimpleNodeAPI
 
-<h4> Installation </h4>
+<h3> Installation </h3>
 To install all dependencies, run <code>npm install</code> within terminal
 
 To run Jest, run <code>npm run jest</code> within terminal
@@ -9,11 +9,7 @@ To run Dev Server (Nodemon), run <code>npm run dev</code> within terminal
 
 To run Prod Server, run <code>npm start</code> within terminal
 
-<h4> Endpoints </h4>
-
-// Credit Analysis Endpoint To Return Data That Meets The Following Criteria
-// Creditor Balance Is Over 2000
-// Creditor Min Pay Percentage Shouldn't Exceed 29.99%
+<h3> Endpoints </h3>
 
 <h5> Get Request </h5>
 **/creditorData/** - Get all creditor data
