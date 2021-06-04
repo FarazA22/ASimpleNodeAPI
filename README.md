@@ -13,6 +13,7 @@ To run Prod Server, run <code>npm start</code> within terminal
 
 <h5> Get Request </h5>
 <strong>/creditorData/</strong> - Get all creditor data
+
 <strong>/creditorData/analysis</strong> - Get credit analysis on creditor data (conditions: balance is over 2000, min pay percentage doesn't exceed 29.99%)
 <strong>/creditorData/:creditorName</strong> - Get creditor data by creditorname
 
